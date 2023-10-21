@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8">
@@ -39,4 +38,3 @@
         <script src="assets/javascript/script.js"></script>
     
       </body>
-</html>
